@@ -42,4 +42,4 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme2006&show_icons=true&theme=tokyonight"/>
   
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme2006&layout=compact&theme=tokyonight"/>
-</p>>
+</p>
